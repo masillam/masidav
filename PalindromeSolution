@@ -4,6 +4,7 @@ import sys
 data=sys.stdin.readlines()
 arr1 = [x.replace('\n', '') for x in data]
 
+#arr=["archit","ar","aaaaa","bbb"]
 
 firstchar = arr1[0]
 n = int(firstchar)
